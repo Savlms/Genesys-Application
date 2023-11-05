@@ -8,4 +8,4 @@ JAVASCRIPT:
 
 1.) cd into the directory
 
-2.) use "node .\index.js" to run and view the output.
+2.) Go to terminal and run the code
