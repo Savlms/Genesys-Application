@@ -1,4 +1,9 @@
-const num = [4,4,4,4,3,3,3,2,2,1];
+function nth_most_rare(arr, n) {
+    if (n < 1 || n > arr.length) {
+        return null; // Invalid n
+    }
+}
+const num = [4,4,4,4,3,3,3,2,2,1,1,1,1,1];
 console.log(nth_most_rate(num, 2));
 
 function nth_most_rate(list, n) {
